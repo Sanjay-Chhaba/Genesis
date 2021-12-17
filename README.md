@@ -1,2 +1,2 @@
 # Genesis
-Department site
+Student Body of Biotechnology
